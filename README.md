@@ -18,4 +18,4 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/Kh2Zfyad2p.gif' />
-<img src='http://g.recordit.co/Kh2Zfyad2p.gif' />
+<img src='http://g.recordit.co/GdEuaOGKU5.gif' />

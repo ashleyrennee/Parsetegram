@@ -19,4 +19,4 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/Kh2Zfyad2p.gif' />
 <img src='http://g.recordit.co/GdEuaOGKU5.gif' />
-<img src='http://g.recordit.co/GdEuaOGKU5.gif' />
+<img src='http://g.recordit.co/OgdEdF1W9f.gif' />
